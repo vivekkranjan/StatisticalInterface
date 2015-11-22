@@ -1,2 +1,2 @@
-# StatisticalvInterface
+# Statistical Interface
 ## By: Vivek Ranjan
